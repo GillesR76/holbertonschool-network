@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Script that displays the listenint ports
+# Script that displays the listening ports
 netstat -tlnp
